@@ -62,7 +62,7 @@ Some features of the <b>The Best Restaurant</b>
 ## 📁 How to download the Project 
 ```bash 
     #clone the repository
-     $ git clone https://github.com/VidalJunior05/the_best_restaurant_responsive.git
+     $ git clone https://github.com/VidalJunior05/the-best-restaurant-responsive.git
 
     # Enter directory
     $ cd the-best-restaurant-responsive
