@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <h1 align="center">
     <img src="https://ik.imagekit.io/zycp4d8fc4b/logo-img_lsZc_uF91F.png?updatedAt=1630964388551"/>
