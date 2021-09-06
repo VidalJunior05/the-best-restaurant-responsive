@@ -76,13 +76,3 @@ Some features of the <b>The Best Restaurant</b>
 ---
 ## 👨‍💻 Develepod VidalJunior05  
 
-
-
-
-
-
-
-
-=======
-# the_best_restaurant_responsive
->>>>>>> 1312dc8e6642255ad46e34b0b70a6ddd650e3b27
